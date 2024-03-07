@@ -19,22 +19,25 @@ wget https://raw.githubusercontent.com/IsabelleRaj/finalCapstone/main/finance_ca
 
 ## Usage
 1. Running the program will prompt the user with the menu, of which they can choose either the investment or bond (home loan repayment) calculator.
+   
 ![image](https://github.com/IsabelleRaj/finalCapstone/assets/119440782/2d62cae7-cf1a-4b44-9f9b-0c0635b8b5bc)
 
 2. If the user chooses the 'investment' calculator, they will be asked to input the following details:
-   a. Amount deposited (£)
-   b. Interest rate (%)
-   c. Years of investment
-   d. Simple or compound interest
+   - Amount deposited (£)
+   - Interest rate (%)
+   - Years of investment
+   - Simple or compound interest
+   
 ![image](https://github.com/IsabelleRaj/finalCapstone/assets/119440782/ccd7618c-d253-46c3-8a8b-10b2963b4806)
 
 3. If the user chooses the 'bond' calculator, they will be asked to input the following details:
-   a. Present house value (£)
-   b. Interest rate (%)
-   c. Months of bond repayment
+   - Present house value (£)
+   - Interest rate (%)
+   - Months of bond repayment
+   
 ![image](https://github.com/IsabelleRaj/finalCapstone/assets/119440782/186d5edc-0fbd-4d6f-be64-6b80f803c34c)
 
-5. The program will repeat until the user chooses to 'quit'. 
+4. The program will repeat until the user chooses to 'quit'. 
 
 ## Authors
-This project was written by me ([@IsabelleRaj](https://github.com/IsabelleRaj)) as part of the DfE Skills Bootcamp in Data Science by [@HyperionDev](https://www.hyperiondev.com/).
+This project was written by me ([@IsabelleRaj](https://github.com/IsabelleRaj)) as part of the DfE Skills Bootcamp in Data Science by [HyperionDev](https://www.hyperiondev.com/).
