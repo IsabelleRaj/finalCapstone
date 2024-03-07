@@ -8,16 +8,18 @@ The investment calculator calculates the amount of interest the user will earn o
 2. Usage
 3. Authors
 
-## Installation
+## 1. Installation
 1. Open your terminal/command prompt.
-2. Navigate to your desired directory.
-3. Execute the following 'wget' command to download the Python file.
    
-```bash
-wget https://raw.githubusercontent.com/IsabelleRaj/finalCapstone/main/finance_calculator_capstone.py
-```
+3. Navigate to your desired directory.
+   
+5. Execute the following 'wget' command to download the Python file.
+   
+   ```bash
+   wget https://raw.githubusercontent.com/IsabelleRaj/finalCapstone/main/finance_calculator_capstone.py
+   ```
 
-## Usage
+## 2. Usage
 1. Running the program will prompt the user with the menu, of which they can choose either the investment or bond (home loan repayment) calculator.
    
 ![image](https://github.com/IsabelleRaj/finalCapstone/assets/119440782/2d62cae7-cf1a-4b44-9f9b-0c0635b8b5bc)
@@ -39,5 +41,5 @@ wget https://raw.githubusercontent.com/IsabelleRaj/finalCapstone/main/finance_ca
 
 4. The program will repeat until the user chooses to 'quit'. 
 
-## Authors
+## 3. Authors
 This project was written by me ([@IsabelleRaj](https://github.com/IsabelleRaj)) as part of the DfE Skills Bootcamp in Data Science by [HyperionDev](https://www.hyperiondev.com/).
